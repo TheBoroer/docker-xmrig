@@ -1,6 +1,10 @@
 # XMRig Miner
 
-[XMRig](https://github.com/xmrig/xmrig) based on a Ubuntu Xenial Image.
+![Docker Build Status](https://img.shields.io/docker/build/boro/xmrig.svg) ![Docker Automated build](https://img.shields.io/docker/automated/boro/xmrig.svg) ![MicroBadger Size](https://img.shields.io/microbadger/image-size/boro/xmrig/latest.svg)
+
+![Docker Pulls](https://img.shields.io/docker/pulls/boro/xmrig.svg) ![Docker Stars](https://img.shields.io/docker/stars/boro/xmrig.svg)
+
+[XMRig](https://github.com/xmrig/xmrig) docker image based on Ubuntu Xenial.
 
 I try to keep this up to date with the official XMRig Releases [(Available Here)](https://github.com/xmrig/xmrig/releases)
 
