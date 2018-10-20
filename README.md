@@ -1,8 +1,8 @@
 # XMRig Docker Container
 
-[XMRig miner](https://github.com/xmrig/xmrig) based on a Ubuntu Xenial Image.
+[XMRig](https://github.com/xmrig/xmrig) based on a Ubuntu Xenial Image.
 
-I try to keep this up to date with the official XMRig Releases [XMRig miner](https://github.com/xmrig/xmrig/releases)
+I try to keep this up to date with the official XMRig Releases [(Available Here)](https://github.com/xmrig/xmrig/releases)
 
 #### Available Version/Image Tags:
 - `v2.8.3` ( `latest` )
@@ -10,12 +10,12 @@ I try to keep this up to date with the official XMRig Releases [XMRig miner](htt
 
 # How to use
 ```bash
-# docker run --restart unless-stopped --read-only boro/xmrig:latest -o POOL01 -o POOL02 -u WALLET -p PASSWORD -k
+# docker run --restart unless-stopped --read-only boro/xmrig:latest -o POOL01 -u WALLET -p PASSWORD
 ```
 
 All standard XMRig arguments are supported, using `--help` will list all of them.
 ```bash
-# docker run boro/xmrig --help
+# docker run boro/xmrig:latest --help
 ```
 
 # Donation
