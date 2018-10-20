@@ -1,4 +1,4 @@
-# XMRig Docker Container
+# XMRig Miner
 
 [XMRig](https://github.com/xmrig/xmrig) based on a Ubuntu Xenial Image.
 
