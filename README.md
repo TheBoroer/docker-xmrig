@@ -9,7 +9,8 @@
 I try to keep this up to date with the official XMRig Releases [(Available Here)](https://github.com/xmrig/xmrig/releases)
 
 #### Available Version/Image Tags:
-- `v2.8.3` ( `latest` )
+- `v2.10.0` ( `latest` )
+- `v2.8.3`
 - `v2.6.2`
 
 # How to use
